@@ -1,4 +1,3 @@
 *.pwn linguist-language=Pawn
 *.inc linguist-language=Pawn
-*.db linguist-language=Pawn
 * text eof=lf
